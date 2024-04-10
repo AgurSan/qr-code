@@ -3,6 +3,8 @@
 
 > Simple QR-Code in a container linking to my linkedin account.
 
+preview: ![alt text](public/preview.png)
+
 ## Install
 
 ```sh
